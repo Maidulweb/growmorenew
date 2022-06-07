@@ -1,0 +1,9 @@
+@media (max-width: 992px) { 
+    .full-page {
+        height: auto;
+    }
+    .main-body-right {
+        padding-top: 90px;
+        padding-bottom: 40px;
+    }
+}
